@@ -1,7 +1,7 @@
 1. Список всех пользователей.
 Инъекция: ' OR 1=1 #
-
 ![image](https://github.com/user-attachments/assets/be500567-e423-4c57-a012-9e362812fae5)
+-
 3. Узнать версию MySQL
 Инъекция: ' UNION SELECT @@version, @@version # (ввод в поле пароля, user - james_kirk)
 
